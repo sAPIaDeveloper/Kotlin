@@ -1,4 +1,5 @@
-//Ejemplo para Casting
+﻿//Ejemplo para Casting
+// Mi primer cambio
 open class A(var var1: String) //Creo la clase A
 /*Creo las clase B y C que heredan de A*/
 class B(var1: String, var var2:String) : A(var1)  
